@@ -1,3 +1,5 @@
+//Peogram to count number of digits
+
 import java.util.Scanner;
 
 public class Prg4 {
@@ -15,3 +17,4 @@ public class Prg4 {
         System.out.println(count);
     }
 }
+
