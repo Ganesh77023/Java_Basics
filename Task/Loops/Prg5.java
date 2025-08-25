@@ -1,3 +1,5 @@
+//Program to check Palindrome or not
+
 import java.util.Scanner;
 
 public class Prg5 {
@@ -23,3 +25,4 @@ public class Prg5 {
         }
     }
 }
+
