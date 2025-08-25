@@ -1,3 +1,5 @@
+//Program to print sum of digits
+
 import java.util.Scanner;
 
 public class Prg3 {
@@ -18,3 +20,4 @@ public class Prg3 {
         System.out.println(sum);
     }
 }
+
